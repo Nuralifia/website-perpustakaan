@@ -1,0 +1,27 @@
+body{
+	background-image: url(images/21.GIF);
+	background-size: 730px;
+
+}
+
+p{
+	margin-left: 350px;
+	font-weight: bold;
+	font-size: 30px;
+	color: black;
+}
+
+a{
+	font-size: 40px;
+	margin-left: 450px;
+}
+
+a .btn{
+	position: center;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+
